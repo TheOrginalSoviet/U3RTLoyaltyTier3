@@ -406,7 +406,19 @@ folder:AddButton("Free Auto Lift Gamepass",function()
 	wait(0.1)
 game.Players.LocalPlayer.autoLiftEnabled.Value = true
 end)
-
+folder:AddButton("Click TP",function()
+	wait(0.1)
+mouse = game.Players.LocalPlayer:GetMouse()
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = "Click To TP"
+tool.Activated:connect(function()
+local pos = mouse.Hit+Vector3.new(0,2.5,0)
+pos = CFrame.new(pos.X,pos.Y,pos.Z)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+end)
 folder:AddButton("Copy Discord Link",function()
 	wait(0.1)
 setclipboard("https://discord.gg/zBTcqpr9Ry")
