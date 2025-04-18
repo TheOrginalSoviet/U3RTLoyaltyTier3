@@ -1,1 +1,2048 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _SKZvigfWySzH = a; end)); return(function(f,...)local l;local o;local b;local n;local d;local t;local e=24915;local a=0;local g={};while a<912 do a=a+1;while a<0x223 and e%0x2894<0x144a do a=a+1 e=(e+619)%26676 local h=a+e if(e%0x3a74)>0x1d3a then e=(e*0x13d)%0x11be while a<0xc5 and e%0x28d0<0x1468 do a=a+1 e=(e+50)%17199 local d=a+e if(e%0x1b10)>0xd88 then e=(e+0x3ce)%0x6d1d local e=49981 if not g[e]then g[e]=0x1 t=string;end elseif e%2~=0 then e=(e+0x36a)%0x109d local e=85142 if not g[e]then g[e]=0x1 n=getfenv and getfenv();end else e=(e*0x282)%0xa8c1 a=a+1 local e=34469 if not g[e]then g[e]=0x1 b={};end end end elseif e%2~=0 then e=(e+0x366)%0xa6d5 while a<0x1ab and e%0x375e<0x1baf do a=a+1 e=(e*496)%42221 local h=a+e if(e%0x3450)>0x1a28 then e=(e+0x139)%0x1f65 local e=78326 if not g[e]then g[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\88\74\82\115\113\68\87\82\0\6\115\116\114\105\110\103\4\99\104\97\114\115\99\114\95\81\73\109\121\0\6\115\116\114\105\110\103\3\115\117\98\95\100\113\102\65\103\114\95\0\6\115\116\114\105\110\103\4\98\121\116\101\76\90\111\105\86\102\68\88\0\5\116\97\98\108\101\6\99\111\110\99\97\116\108\112\122\115\76\72\69\74\0\5\116\97\98\108\101\6\105\110\115\101\114\116\82\86\72\68\69\83\108\120\5";end elseif e%2~=0 then e=(e*0x285)%0x3a83 local e=63485 if not g[e]then g[e]=0x1 d=function(d)local e=0x01 local function g(a)e=e+a return d:sub(e-a,e-0x01)end while true do local a=g(0x01)if(a=="\5")then break end local e=t.byte(g(0x01))local e=g(e)if a=="\2"then e=b.XJRsqDWR(e)elseif a=="\3"then e=e~="\0"elseif a=="\6"then n[e]=function(a,e)return f(8,nil,f,e,a)end elseif a=="\4"then e=n[e]elseif a=="\0"then e=n[e][g(t.byte(g(0x01)))];end local a=g(0x08)b[a]=e end end end else e=(e+0x322)%0xec0 a=a+1 local e=54205 if not g[e]then g[e]=0x1 end end end else e=(e*0x39d)%0x8540 a=a+1 while a<0xf6 and e%0x1842<0xc21 do a=a+1 e=(e+57)%49731 local d=a+e if(e%0x4da2)>0x26d1 then e=(e+0x290)%0x72b4 local e=27866 if not g[e]then g[e]=0x1 end elseif e%2~=0 then e=(e*0x2f5)%0x28d local e=78772 if not g[e]then g[e]=0x1 n=(not n)and _ENV or n;end else e=(e-0xb)%0x7a8a a=a+1 local e=90875 if not g[e]then g[e]=0x1 o=tonumber;end end end end end e=(e+116)%24154 end d(l);local a={};for e=0x0,0xff do local g=b.scr_QImy(e);a[e]=g;a[g]=e;end local function h(e)return a[e];end local t=(function(l,t)local f,g=0x01,0x10 local a={{},{},{}}local n=-0x01 local e=0x01 local d=l while true do a[0x03][b._dqfAgr_(t,e,(function()e=f+e return e-0x01 end)())]=(function()n=n+0x01 return n end)()if n==(0x0f)then n=""g=0x000 break end end local n=#t while e<n+0x01 do a[0x02][g]=b._dqfAgr_(t,e,(function()e=f+e return e-0x01 end)())g=g+0x01 if g%0x02==0x00 then g=0x00 b.RVHDESlx(a[0x01],(h((((a[0x03][a[0x02][0x00]]or 0x00)*0x10)+(a[0x03][a[0x02][0x01]]or 0x00)+d)%0x100)));d=l+d;end end return b.lpzsLHEJ(a[0x01])end);d(t(126,"2-pGiE/nWATQV,v<Wn"));d(t(13,"+1#o=ZyNXxpqk&7EEo7k=k=Ro11q1oEEXE7#7y&1kNpkX7xXxZXk=k=&=x7y&poX17iEh&{Skpqk&7pZp&xyN7p=#G1NNZypZ==k=Z#EgxEk7&7X&Zk7&NZkZZqZpxxpX=NkyXExZ=oq=1#o1q1or#777pq&&Zk#xqo7oZx1NXN7yZEZ=Eop#7o=1E3x&pE47qk#ppxNqXo7oxxoNXNpyyZ1Zoooox1xm&fpEyEp7N&ZpokPqqxqxE#L1yZXZp=q=Eo&oo7NEx7EGZkZqpqokEkZ=ooyxkNxN=N#yqZ1=xoo5k1q1#EqXqN&pX&NxNx=pxXyyNyp=qE7EZZ==#ox#&17:Xgv7k7&p&kqx&xqpex&NN182Xyp=po7oq#Nqq1&GxE77#&N&#kxq=xgXxXkXkyqN=Ey7q=&ox#71#DNO#74kZk#k#x&xkx#Xy#y1pNXy&ZN=E=Xoo#=#oEx7u&#7pkoyoZXqXx&xNXoN=NXZXo#oN1#)x;&1#7/XEXy7#kxkEqy=yxpxoXxNkN#ZNZNoo1yo=1y7&Epx."));local e=(-30950+(function()local d,g=0,1;(function(e,a,g)e(a(g and a,g,e),e(a,g,a),g(e,e and e,a))end)(function(e,a,n)if d>472 then return a end d=d+1 g=(g+315)%41884 if(g%228)>=114 then g=(g*633)%43049 return a(e(n,e and e,a),e(n,n,e),a(e,e,e))else return e end return n end,function(n,a,e)if d>249 then return n end d=d+1 g=(g*409)%26769 if(g%402)<201 then g=(g+897)%4628 return a(e(e,a,e)and e(n,a,n),a(e,n and e,n and e),a(e,e and e,a))else return a end return e end,function(a,e,n)if d>318 then return a end d=d+1 g=(g*52)%21586 if(g%1926)>963 then return n else return a(n(n,a,a)and a(a,e,e),e(n and e,e and e,e)and n(n,n,e),a(e,e,n))end return n(a(n and n,e,e),a(e and a,e,e and n)and n(a and e,e,a),e(a,a and n,a))end)return g;end)())local de=(getfenv)or(function()return _ENV end);local h=b.VHR_GSVW or b.ogPVfs_u;local l=4;local z=1;local d=3;local n=2;local function ne(u,...)local s=t(e,"UZax=g):X C?1e.AX.C1wagXCAZxgC?O8)C=Z?)11xe==?11aaa1CXaC)AeZZAXx):e.Za)X?.)=1?axXZX1/X: .LxZxC1)AXx1 Cxe Ze .CXZe1=VX:.C.. =e?xx Z 1xXX A!=ZgxXZAea1XaeXXa.1=xCxC)=a ?A==xg=4Z=ZC C1gaCCAegX AAxgCCZA)FX?gAeg.CX?)x ?Zv:g1 :AAgx))Aaag= C:A==CCW=)CeWg)x)..Cg?1aZxAegACXA.g=A1)g1xZ?:X?e1.g=1 aa:C?eZ.o :x?=YC)EA.:g1 aoa.CCaCXxX)AeX,11e.)0e x:x)?1a?X)eg1ga):/1)Z1??x)X=e x1X..g.1:=.:xZXA:?.La):1ea:gAx=:Xe.1x?=11e=Z 1.?ACXaAgxA eX .Xx=XC.pCaA?=x 1+ZgXC1A g=Cx xAZx. =.CXZACgG  vZg1CXh ):=:?gAa=X .=Z? sA)= A,:g?CeA:).1aiA)C? Z?=)?eL.)=??ZC=x11aa:)g??XY)g1?ag:1.e=gee=a?:a1X? Zg)=?CZc11a.XZegZ4g?C11ZZ )11aZXe1a  Z:Z11Z1:a1X)x.1x. ae:Aeax:11.a=:Cx:X:. x:a X:e=aCXYZ: b.)ZCCxAX=. AA=ee=xXXe.x=eA=1CCA.=xgX.Zg= AAg=Cg1e gCC:_a=.=x ).1=a X..a=!AxG=:CeAa=X .x:? Zv)A)1.))Z1ZD:) 1avCZ1 .ZZ)1?AC?zxg)C1;aC?Zx:Xg?1:p)g1?a=.eiZ )AXGA:XZe)a:a.?+ax:)eCe1g 1 a?: eCaZX eA1xaa).1=ZCexa:XCeZxCXx.:xx Ce?1eae:X1.a=1==g =.xx.Xe .a)  .x=ZaeXCeXa.X==:  A=x?CgAZgX  X?A=x)X1.aXeACgXC1AZy)XAfa=eCxAX{CX:{Xgg?GA1r. C11AZg= 1Aa=X.:)a?P{ )=?gZ)ge).A:)C? Z=)AgxCAA.g=CC=X1Cab:a AZx:Xge?s})g1?aBXA.a =C)Z?1I1)a?X=A1XZ.)=1:Z.Zx:=?.Z=)Cog::e.a. ZX.Z XCe=a: Be:1 a::=1CaI?:xEX)?.xe qe.xg X:e.0aX:.e=).. = Xe.=== xC=a.Ca.:=b :A?eA=CXC.#x)eAga eAx=XgCe:gXCg/^=1g..ZgAC1BCgg?aJ=g:C L1AZgx 1Aa=XAe=: gAC)1?gs g.CgZe=e1C..AegXCXA.g=.e)A1aZ?:=X??Qu=g?1Cl)g1?age ZO)g.Xn!ag???A gC?XZxxT?Cwgg:?Ce.=:XCZxg ?.F?)X1a1gZA:h1)Z1?:=F a.)a?aZX=11aa:XZ1X .ZxZ C.g=XXe .a: C. == AXx.:a.X=eC:).:=AC).eg-g=e1=g XAgg=C1A)g:x?eA.)x1 agi?aRXgC?xeJZ?:Z;C=A??1Xg:CAZvgC?e({) ?e_g)XCAZZ))1an )X1=e=gA1ZZgae1ZSA)e??Z))x1gZx::X Zg:a1Za=:ZexaZx:e).Xx e:aZx?e&ax:aeXZeX=.Z.e=xe:aZ:AeCAZ)=e:a)X1eZxX g:xeAZ.:=1C)ZeC.1:=eex? xATxZ a 1Ae=X?A=  ..AA):AA)=e =.Ce?x1X)e1xae==x ?.A=. CAA9aXCAe=:Cg Z.Ax1 a.X:AAX=. xuegg?)A?g)=g1XAi=) 1g?C.?.)e? Zg)X)1Z=geCA_X)x?.zeZ11)ZO):1:1C: 1gaZa 1CZxa=??eu)e1?aZ::1eZX).1=ZCa11=a:X:eexxX ):1:Za)X?.gC1?xxXCX1f X=e:xX:eeX1:xe:a1XZ.1:xaXA.e.1)x.1=aXgeex?=)1x=: Z .A1)A.Z=X XA?AXXxA=x. ZAC=Zgae.Z5geX?.Xx)X1.a: Aa=XX)AZ=XCZA.. =g =.C=&.1gZCg91ge?)11AZg= 1Aa=X.age?eBZgX?Xw:a: xZag??aZa)Zgx1%A.g=CC=a1XZg:R?A1.=)??Zx:Z:1>g:X1xZ::x1Zaaa1?ZZ.:=1 a1ZZ)C?1Za)XZZ:1e x:Z::)1aZX).xZ:?e x=:?egx:XC.xx1aZ:C11aa:XZ?Xe.exxa :1eaaX:.e=aCX2e)a1=7e a.X=eCx=X:e1xaX e.x=XCAaA X1.axX  .=xC 5AX:x a.Xx.?:.C=i )ZaCZ X..==C&Ap=: 1Ag=XCa))=CC+A)gaCaA =.CX)1g{C)A1g CXAAg=CCd)g)C1/ag C.c=gC1axeg1?a(X):?=SC)B1X=x)a? {.:=?CZ!))e1gg) ?AZ=)?1vxa)1e=x:).1:ZC C1)Z1:a1Xa=:g1.a_::11aa:X1.x1:CeZa)XmeaaX:.e=xCXue)a1XaeXxIX=eCxCX)e1xaX e.x)XCF^=?X1.xxXX..=== 8AX=C a.?x.?C.C=8 ).1=1 XAa== CAf=  1%=:A .A =C1=A)=1CaZXgeCgAAgbC?A1gACXZz*ZCC()g).=KagXC.Z):)?z,eg1.C(Xg.?=Z1)a?)Z=)aAdH.)=?CZJ:e?1Z:)X1)Z=)11Va)X)1aZ1).ACZC:g1)a.: 1Xax:=A1a_:)11=a x1.a :Cega)XCeaxCZ)e=xnXh. a1XaeX=I )eCx:X)A xaXXe.x=C).Ix?X1. xX r.==CCZ.)=s aFZx.  .C:z X.1=) X*g==?AAs=)CxAa=  .AX=CCaA))1?xAXgfC=A?gv1=A1)=1:A.gXCCz1g)C1jagXACb=g1?cfCg1?=>X:.A:9?)x?)R.)a.eQ.)=aCZv) ?1Z=)X?AZ=XC1)Z))A1aZC).egZCXaeOZ1::1Xaa:=1Cam:X =aa:.1.ag:Ce,a):1X aXXZe=x+XRe:a1Cae.a.X:eCxaX).exa C. x=XA.BxXX1.axX (C1xC ).)== a.Xx. =CZ=K  .1=X X.A==?CA =) AAa=C .wg=C?aAX=1C:AX)^C=ACg5CX1=gaC.A.:ACCL^g)C1? gX?Zi=)9?p#:g1eaZag.?:_C)a?)Ze)a1CZ=)=?AZSXm?1Za)X1Te1)C1)Z)X=1aZX).1=eZ:01 Z1:X1XZA:=.Ca::)1Aaa:C1.xg:C.axC:1e:aXC:e=aCXLeXA=Xae.a. ZeCxWX)e1. XX.Zx= i.6x:X1Pa=ZX..:xC a.))  aAC=e =.A=W :.1=a XA2D1 CA)=)11Aa=X .A=.XCEA =1CXAXgyC=ZCgAC)b3gaC?A.) CC!7:xC1OXgXC.c=gC?(#))x?aT1g.?ChC)Z?)a1:e?XZa)=??ZuX=?1a=:A?.ZC)CA:Z))11aZX?C1=Z.:I11Z1:=1Xx.?:1?ag:)efaaCe1.a=.Ce+a?:1e=aX:Ae==CXge)xZXae1a. geC=a Ze1x XX.=x=XC.TxXg=.a=tX.l=xC 5.)x1= .X=x =Aa=0 :.1)aCe..=  CA==)CeAagCC A=gZCzZg=1CaAXg&)1ACgXC)A.gaCXA.g=)Z0-g?C1ICgXCA(=:C?1Y))Z?aP1g.1gnC:a?Cq1) ?Xxc)=?CZP)XX=Za:E?.= )C1hZ))1: ZX:x1=aa:-1:Z1 a.ZZ.: 1Ca=:)A aaXC.Za=XZerg):1eaaXX_ 1aCXXe))=XaeXa.X=:XxWX?e1xCXX.2x=CCA1x) a.axeX.A xC BAgx1 C.Xx. =.C=P ).A=a ...=1 CAZ=)?1*A=XC=A==?C_Z==1?=AA=.C1AC::C)A1gaCX=Cg=?#y+g.C13=gX1.=:g??:q))a?axeg.?=:C)m?eP1)=?XvA)=eCa:))1xZa).?.x=)Ceaa=)11?ZX:e1=ZC:u1))X:a1AZ.:e1Caa:).1)g: e)a=XZe>g::1.==::.e.aCC?e)a1XaeX.gX=.axD 9e1xxXXA.x XC.Xx) x.a= X.A)=. cAbx1 :.Xx. =.1wX )A:=a?)..== CAiAe 1AC=XC A==?CpZ))gCa2%=.C?AC)ZC)m.)gCX+Xg=19MMg)C1o=aQC.GAgC.x!)g1?aBXZg?=Za)p1Zz1)x?Xa.:m?CZX))1xZa: ?.a):A1Wa5)1e)ZX).1=Z1xX1)a::aA)Z.:=1Ca6ae11aC:Xe a=:?eV=)XgeaxM:.eCaCC%e)x.XCeXxXX=vexqX)e1xae=e.x1XC.Cx)X..agXeZ.g=x (..x11x.Xg_?x.C=? )ZC=a X..==gZAt=A 1Ae=X AA=)CCaA)ggCaH&=.?gAC)aCXA1geCXxag=CCtTgX:=_a)=C.ZegC?Jp)g1) !X):?=Z))S?:!1Xa1.W.)e?CZX))1eZa:Ce>Z=:g1%xZ)11aZX:QX1ZC:11)gx:a1XZ.:=XZa5:A11a.:X1Aa= C.=a)Xgeax%:..gaC aAaa1XeeXg)X=eCxSXXC=xa =e.g)XC.+x)X1  xX :.==) %.:x1?aAgx. e.C=X )Ae=aCCAC==CgAS): 1Aa=XC<?1=CC1A))aCaAX=.C=?ZgKCAA1g.CXAAg=1CZig)?gFag C.aagC1aZhg1?edXXe?=WC)E?)gX)a1Zm.)A?CZa))e1gg) 1XZ=:x1H=?)11aXX).1.ZC:a1)Ze:a.Xa.:=e=aD:A11=A:X.Kx=:Ce1a) =eaaX:.e)AaX3.xa1 )eXa.X=eC1.X).)xa ge.x)XC>9={X1.exX X.==A 4.)=Z aAgx. =.C=> ).1=1 XA ==C:A-=: 1Zag? .AA=CC A): CawC=AC=W:gEC.A1gaCXSSZ1CC0.g)1x9agXC.k=ee?oZZg11S0X)B?=aC:x?)ZX)a1xd.: ?CZ3X6?1ai)X?.Z=)C13Z):x1aa=).eaZC:Z1)a.XC1XaC:=exaK:)11x=XA1.xZ:C.Ya):1ea=X =e=x:Xy.xa1 .eX=n :eCxAX)w)xaXXe.x= !.Z=)X1.xxXX..=xC Z.)=  aAXx. =.C=d?5.1=. X..== 1A7=)?ZAag= .Ag=CCaA))1?ZAXg?C=-)g}?(A1)=1gA.)xCCa)g)C1dagX?Cq=)C?_M)g1?g{X:D.?uC:Z?)xE)a?X}.X=1 ZZ::?1ax)X1?Z=:1)eZ):.1agO).1=ZCXae)Z1Xg1Xg):=1CaFXXe:aaX11.g1:Ceya):1.)aXXAe=x.X4eXa1 aAxa. =eC))X).exa C.1x= ?.i)XX1.axXC..:xCCZ.)=e aA)x.C)Xa=%CX.1gg X..==C1ma=)CAAa)g .A==CC}A1=1?xAX)ZC=A1gd?)AAga?XA.)eCCZZg)e1ZZgX?.O=:Z?<a?g1?aZ g.1ZNC:7?)f.)aeXax)=1XZI:x?1x_)XeWxx)Ce0Z):X1aZX).1=)):Be=Z1Xa1Xaw:=.C)x::e?aaX)1.g :CeH ):1.ZaXXLe=a?X9A)x.Xa.:a. aeC=ZX)..x?XX.Ax=X..ux)X1.=n}X.A)xC  .)x1 a.XAg =A =ICX.1=x Xp.=X CAA=)CCAag  .,))xCnc:=1C=AX=.C=A1ZXC)_.gaeMA.g=CC94-eC1ZZgX10z=g??{a):=?aZ:g.1a>C:Z?)Z.:A?XZA)=11Z}))?1Z=xw?.a))CeaZ))11aZXag1=a :!eXZ1:x1Xx.:?1CaA:)eCaaX 1.x)X:edx::1.1aX:.e=a1=Xe)x.XaA=a.X=eCx>xee1=ZXXA9x=X?.og) ).a=:X.AaxCCZ.)=.C:.X=A =Zx=& ).1==)i..g) CA.=) 1Aa=XggA=g C;QX=1CxAX).1ZACgAC)FCgaegA.))?Rdj):C1<xgXC.Y=g1:X,)).?aG1g.?=fC)lg=t1:Z?Xa#)=?1Z}X)eZZa:X?.ax)CegZ))11.ZXXr1=ZC:71)Z1:a.ZZ.X=1Cxa:)1eaa X.aa=XCe;xx:1A,aX l.eaC ae))xXaeXa.X=a)xD )e1==XX.Mx=CCaxx: e.a=XX.Z xC 7g)x1Cx.X=6 =.?=!?)A?=aC ..g= CpZ=)C.W&=X?ZA=g+ClA)=1C=1j=.?XAC)ZC)A1gaCX?gg=??DN)CC13xgX1.;CgC1Z<))1?aZ g.1)M.)c1 b1XZ?X/.)=?1eX))e7Za :?.Z=)C1s1e)1exZXXa1=Z?:2.)xg:ae Z.X=1CxZ:)e.ag:X.Za= 1eMa):1e=AK:..XaCCxe)a1XaeX.gX=.?xS Ce1xxXXA.=NXCAZx) 1.a)gX.A)=) iA x11a.Xx. =.1(X )r(=a ?..== CAq.= 1lx=X?aA==1COZ)gXCaPC=.?gAC)gC)A1geCXZag=CCpzg)C1Pag1C.Z)gC1=M)ge?aaX))?=Z1)61x&1Xq?XaN)1?Ca=)).xZa)X?.Z=?)1NaX)1e)ZX:s1=xC?x1:aA:aeCZ.C 1CaF.)11xg:XeOa=:?eq=)Xxeax?:..)aCC>e)x. >eX=xX=. xnX)e1xae=e.=:XCAgx)X..agXeZ.g=. NA x11x.XgL?x.Cg) )Z:=a X..==gZAqgC 1tX=X AA=)CC.A))hCaB?=.?gAC)a?1A1)XCXzxg=CCR6gX:=Ya)AC.aggC?p<)g1) HX:a?=aZ)b?:w1Xaeab.:X?Cax))1eZa:C1=Z=Xt1Wa1)11aZX:MX1ZCX:1)a1:a1XZ.:=XZaJXC11x :X1Aa= CeAa) reax?:..gaC aAGa1 XeX=aX=eCxdXXC=xa Ae.)gXC.2x)X1  xXCa.=gZ >.:x1?aAgx.CX.Cga )H1=aCCh ==?vA#:  1Aa=X .=q=C?=A))aCaAC=.1=xegZ??A1))CXaAg=?1ZAg)1xLaX)C.l=gC?}?eg11:_X:g?=9?)Pe)a))a1e9.:X?CaZ))1.ag)XegZ= .1zZ))11=.p).e1ZCC)1)Z1:a1Xeg:=eAaIX.11ax:X..xe:C.ga) 0eax :..)xeX6.ea1 eeXa.X=e1AXX)A=xa xe.x=XC.F.eX1A:xXC).=x? OP)x. aAex.CX.CgZ )A.=. Xrg==1aA7=) 1A=Zh .y1=CC1A)=1CaAXpgC=zAgD?.A1gxCXZ.) CCZgg)1uda) C.Z):g?lZeg1ex6Xg.?=p1aX?)a=)a.C8.)=?CZiZe?1a:)Xe)Z=)?1Vx):Z1aae).eZZCX.1)a.X=1Xxg:=A ab:)11aa1=1.x :C.:a):.ea=X1Zeg=<XO.?a1?:eXa.A=eC=)X)e.xaX e.g=Cx.>=1X1A:xX??.==1 e.)g= a#;x. =.C=ag..1g? X5X== CA-=)xCAag. .ke=CCaA))1CCAX)gC=ZKgk??A1ga?)A.)eCC%ig)C1uagX? K=:Z?6ZAg1?x;X:.e^WC::?)aZ)a.g^.:)?1ZY:A?1x.)X?.Z=)1XXZ)X)1aaa).1=ZC:;= Z1X 1XxX:=11ay )egaa V1.x?:C.ga):1egaX Xe=aCX!e)a1Xa.=a. 1eC=CX)eexa C.)x=Ca.}xAX1.axXC5APxCC .)=1 a.Xx.?=A)=ECA.1g? X4C==C1h==)?:Aa:a .A==CC0A1=e?.AX=AC=ACgqC)Zxga1ZA.:PCC93g)C1I?gX1)V=gC?JLXg1?aaxg.118C)Z?)u.)aeXZ=)=exZ2:.?1Z1)XeKZ.)Ce?Z) a1aZX).1=a<:P.aZ1:a1XaZ:=e1g::). aa 11.a=:CAQxg:e.AaX ?e=x:X0.Xe XaA)a.?1eCx_X)..=.XXAex=1a.tx)X1A==)X.7=xC1X.)x1 a.X=Z =E:=F?).1== XA.gx CQ1=)eaAa)g .r))nC!Zx=1e=AX=.C=ZC))C)Z ga1gA.)aCCZa..C1a_gX1Zy=gC?3ZX)A?aa:g.eZ{C)R?)b1::?Xa?)=e Zo)X?1aa).?.xk)Ce Z)X 1a=X:Z1=x):leeZ1 :1XZ.:X1Cx :).Xaa:C1.== SeF=6:1.?aX 1e=x1 Ae)=XXa.=a.X=eCxOeae1=1XXACx=X1.Og)1A.xgxX.A.xC1g.)x1ja.Xg  =.1=r :.1)a ...gA C*C=)CeAagC?xA=):CSAC=1CaAXgh)1AC).C)axgaCXA.g=)Z<J:ZC1aNgXCAu=:C?aW)::?aaag.1g4C:a1C&1:A?XZh)=?CZ>)XX=ZaX)?.ZC)C1/Z))1: ZXX 1=xX:z1:Z1 a1.Z.XA1CxC:)eeaaXCexa= :eVxX:1eaaXXv 1aC .e)= XaeXa.X= ZxBCZe1glXXeAx=CC.xx)C:.agaX.AgxCCaDZx1CA.XgX =.C=T X?==a?)..)C CAL=) 1C =X? A=)XCFA:=11aJ?=.?AAC)CC)%ega?C+hg=1:B-:AC1+agX?#11gC1.y))Z?aHXg.?=1Z)+eZf1X!?X!A)=eCa?))e:ZaXa?.=Z)Ceax_)1eAZX)A1=ZC:W1X.=:a.)Z.Cr1Caq:)111;:X. a= XePaX:1Aaae:.A-aC ?e)=ZXaeX=xX=AXxSX)e1xaXXe.g7XCA1x)CC.ax X.k=gx Q}ax1C?.Xg1 =A1=x ),C=a1A..== CAl a 1c.=X?1A==1CkZ)XACxZg=.1*ACXgC)A11aCXZ?g=C1+Lg:C1aag?C.aZgC11p))e?aZC)Z?=a )5?1T1)a?XZra1?Cxj))eZZa)X?.Z=aZ10xx)1.aZX)A1=xC:A1)x :a.=Z.Xg1CxaX:11=Z:X.ea=:CefaX==ea=X:.DXaCX9e)a1x eX=?X=ACxHX:e1ga Se.gZXCA1x) e.a=CC:.=g  rYXx1 a.X=Jg1.C)# )ZI=a X..==gZAo)x 1Za=X AA=)C?CA)) CaZ==.eZAC)a?XA1:ZCXa.g=CC8YgX:=Ta:XC.0=gC?^{)g1gBTX:??=aC)_?X%1Xa1a}.Xa?Cae))eZZa)X1aZ=XC1IZ))11aZX).e:ZCX.1)x1:a1 Z. =.ZaP =11x?:X.1a=X1.Xa) 1ea=A:.e=aCX}aaa1CMeX=.X=e1x0C)ZAxxC:e.gaXCZgx)X1gaxXCe.=x1 M.:x1?aYgx.?x.Cg. )V1=aCCs?==??Ajgg 1Aa=X .=-=C?AA))eCaAC=.1=xegZ1)A1:ZCXaAg=?1ZAg)1.9aXxC.S=gC?}?eg1ea_XX5?=n?)9e)ZZ)aeX{.Xx?CaZ))1.Zg)X.hZ=)A14Z))11=.N)..:ZC:A1)Z1:a1Xeg:=.Caq  11ax:X..ae:CAta) ?eax :..)=ZXzAXa1 XeXa.X=e1AXX)AAxaXAe.x=XC.k.eX1PaxX?Z.=x? Ew)xe a+Xx.?x.CgZ )A.g. XZD==C.An=) 1A=Zu .Z:=C?xA)=1CaAXbgC=ZCg91 A1gxCXZ.).CCaPg)1CBa:XC.Z))=?>aXg1.gwXg.?=^CC1?)a1)aeC6.))?CxoC ?exx)Xe.Z= ?1taXX?1ax?).AaZC:>1)Z1a 1XxA:=.eao::11=aX:1.=g:CAva)XeeaxC ?e==eX/8Ca1XaeXx2=1eCg=X)_gxaXXe.x==Z.jg:X1c)xXXA.=gC ?.)ge a#Xx.Cg.CgaC?.1)g XT == CA_=X)=Aa)1 .Z.=CC&A)=1g AX)AC=Z.gnC:A1:aC.A.:gCCaMg)?eca)C1:N=:e?ta.g1?a4X)O:1PCX=?)a?)a?XH.)=:ZZQX:?1x))X?AZ=XC1CZ)Xe1axX).egZCXaeeZ1 g1XxA:=1Ca{:X =aa 11.gZ:Cela):1X aX Ae==.X^e:a1Ca.ea.CgeC= X)ACxa CAyx=Ce.s)gX1.axXX.xWxC?Z.)gA a.Cx.?=ae=Z?X.1)x Xax== C)<=)?.Aa=C .Ag=C1wia=11=AX)AC=a:g%?XI:ga11A.)1CCy>g)C.1CgXex<=:g?QW)g1?aC)g.e)QCXg?)j.)aeXZx)=eeZRXX?1a:)X?.ae)C.gZ))11aZX).1=Ze:k. Z1 :1XZA:=.CxR:).Aaa  1.gZ:C.a=Z:1A:aXXge=aCXBeXA=XaA.a.C eCxOX)e1?AXXhZx=?q.,xXX1La=eX.mXxC?x.)gZ a.X== =ZJ=3 ).1=a X..g? CZ==)1aAa=  .A=))CVA)=1CxAX=.C=xxgJC)A1)ZCXA.g=C?fXg)C1+aCXZe::1xa=)A1?aEP )g?=fC)&T1:gegaZ:/ebZAZZ)??1Za)XZxgXexae=X)AaX:.e=aCX+e)C1g?:xeZZ.:=1C:k.aae ?ee=4)?.Ax a CAkgg??Zo:gegxZgaeX eXa.X=aC 1.:gg :ACgZxg X.^x)X1g:CXAa=gC.Agg X A:g)?xe?gAC   X)e?xZX:eexx? Xg eAg=X .A=?Xng)e=eC:AX=.C==l1aB:) ?:C K g=CCl6CaZ?)g? ZCg=1)ZZ:A1Za=s?g.?=>C)u?)N1)a?XEA)X?CZ4))ax:xegaxZg).1zZ))1ZgXZ.Xa Z? =1)Z1:aeC ::=1?a*X=11aa:X..x1:CeZa):eeaaA:.A==ZXIe:a1XxeXxCX=ACxgX)eexaX e.x XCIt=AX1.xxXXA.==a 9{)=? a. x. g.C=? )A1gg X.A== 1A_=) 1r=:A .Ag=CC.A)=1CaZX::CgA?gEC:A1g CXZ.geCC*Zg)Cewa)=C.a=:)?H^:g1?xDX)x?=aC:Z?)_e)a? V.)1?Cxn)??1Zx)X?AZ=:g1RaXXg1aZC).1:ZC:31)x1XC1Xa}:=11auXw11x=..1.a::Ce=a):1eaxC:Ae=a.Xr.xa1XaeX=} .eCxgX).axaXXe.=)  .Qx1X1.AxXX..=xC X.)x. a..x. ).Cgm?I.1=x XAe== 1A,gX .Aa=  ./a=CClA))11?A =AC=A?g/CeA1:a?gA.ggCC(Zg)?X!a:X1w#=g??-l:g1?:8X:.?)#C)Z?)se)a1zH.X=1)Z#):?1Zx)X1 Z=:1eeZ)).1aZ?).1=ZC ceCZ1:=1XaP:=e=a<XXZaaa:?1.ae:CeEa)X..baXXae=x:XEe)a1 =.)a.X eCx)X)e1xa CAXx= l.+=xX1.axXX.AaxC a.)=a a.Cx.C=.1=o :.1=x XAm== Cwr=) 1Aa=  .A==CCMA)=1CaAA=.C=ACgZC?A1gaCX:Z1=z?::1=CeZxgXC.G=C1Zg:)1XZ?)??AaX)A1=M XVeZaC)A1?ZAZZ)C?1Za)Xxa:geea?Z::c1aZX).a?:?eea?Ze:e1XZ.:=Z)XAe aeX.1XxCXgAxxg X:ee1aX:.e=:Z.g=C:A.:=CC=.exe gX:.xxaXXe.X=A)=ZCAAZg=C?X.*ZxC f.)=. g.Xx. =..=u ).1)a?a..== CA4=)CaAagCCgA==1ChAX=1CaAX=.1ZACg(C)A.gaCCA.))?aHMg:C1;)gXC.m=:C1ef)ge?aP g.?CSC:a1AI1)g?XZg)=?CZL))uXZa) ?.Z:)C1aZ)X1eZZ :+1=Z?:d1?Z1:X1:Z.::1CaE:)1eaa:C1.a=:eeZa):1e=aX:.e=aCXxe:a1XaeXa.X=eCx)Xge1x)XXeAx=X?.>x X1.ax?XA.=xC x.)x1 a.X=Z g.C=q X.1=a X..=: ?AR=) 1Aa=X .A)ZaCPA?=1CgAX=.C=A1ZXC)EagaCCA.g=CCZaXeC1J gX?Zb=gC?Ha))??x,Ag.??yC)Z?)Za)Z?XZ))=?.ZY):?1ZX)X?.Z:)?1GZ)).1aZX).1=Ze:Z1)Z1:g1XZ.:=1Cax::11aa:11.a=:Ceza :eeaaXXxe=aCXpe)aAXxeXa.XCeCx<X)e1xgX e.x=XC.Wx)X1.aCeX..?xC a.)xe a.X== =.C=j :.1=a XAx== CAMga 1Aa=X AA.=CCfA)?1l:)11Z.C) ?18C)Z1=C _=g=CCSR 1Z?).?1Zx:)g??C/)g1?a:e11Z :?egZA:1?aZeXa)g?.ZW))?1X 1 a:XX)egCCADgg??Z!::eg :Z1CZ1:a1X aegxeX?::e:aa:X1.)?eA==) .=x? =.a=)XA..e:xxXaeXa.A)ZAC).?=CC)A?eAx XC.Hx)A1=xCZKIg:x? x.)x1 axZ?Zeg.?=C ).1=ae.g:?)AA=xC?P.)XCeZjAgg:CpA)=1M:) 1xpe)CCb!?:N :Z.)x1aZ.m*:XC1oagXC.X gC?GI)g1?aWXg.e=%e)>?)h1)a?XNA)=11Z1))?eZa:Z?.Z=)C.5Z )11=ZX).1=aZ:k1)aa:a1CZ.::1CaE:)11x :X1Aa=:CeWa :1e)ae:.e=aC ?e)aeXaAX:ZXg.6xzX?e1x1XXA7gxXC.Xx)X..axXX..=X) Q.1x1 C.X=; =AMA. )Aa=aCg..=g CAZ=)C2)==X .A=g:C#A:=1C))C=.C=AC)?C)Aega?Cxgg=?G0vgAC1DagX1.=:g??:>))Z?adAg.?=xx)8?eT1)C?XB.)=?C=g))1aZa)X?.Z1)C1=XX)11aZXX:1=Z?:51):a:aexZ.:g1CaI:).1xx: e a=Xge0a.:1Aa=Z:.eAaCX?e)xXXaAXxXX=.gx* Ze1xeXXAz=.XC.ex)XA.axXX..==? -A=x1 1.Xx. =.C=) )A:=aC)..=g CA).a 1AX=X?iA==?CqAX=1C))C=.C=AC)aC)AegaC. Cg=C?22geC1YxgX?z4=g.aaO)g1?ahAg.?g4C:a.e71)x?XZ=)=?CZiX)1?Zx) ?.Zg)C1=Z):..ZZX:*1=ZA:F1)Z1:axeZ.:g1Caa:)1eaa:Xe=a=:Ce%a::1eaaX:.e=aCXb.aa1XaeXaA ZeCx2X)=ZCxAe=:C=eC=gCCeZgX eA1gXx? ).)x1 axeC1Aeg??gA?.e=) X..==B.gZ? R:Ax=A .A==CZax?1al:))1aZ:A?gCC)A1ga..):1)oAgx??Z.:X?eap-g)g?YW)g1A )eeaA::a1 aa:/e=Ze:1)g?.Z%))?1)01 a?: )?1CZ))11aXXexxXXe?)xgXXe)ae ;:g1.aM:)11  e x: X:?eXa):1eaXe.A=  xAWa) ZA)e?C  XXX::):g)?)1:eAx XC.Lx)A1=xCZBRg:x?C?.)x1 a.X)e =.?=- ).1=a X..g: CAZ=) eAa=  .h)g1C<A:=1CgAX=.C=ZCggC)AegaC A.geCCZa)1C1B=gX? T=gC?LK))C?aQ g.?)6C)Z?)Z.:a?XJA)=1)Z())?1Za?.?.Z))C1ZZ))11axX:e1gZ1:91XZ1:C1Xx.1:1Caa:)1.aa:C1.==:eeiaX:1e=aXX=e=aC Ze)a.Xae?a.X=eCx( Ce1xxXXe.x=Xe.}xC ?.axXX.A1xC Z.)g1CZ. == =.A=D e.1=XeA..=C CYX=) eAa=X .AX?1ChA)=1?CAX=AC=ACC)C)vagaCCA.g=CCa8):CeGXgX?=<=g.?la))=?aT.g.?CPC)Z?)a1:=?XZ=)=1SZO)??1a=)A?.Z1)C1CZ))11aZX:Z1=ax:31?Z1:a1XZ.X?1Ca):)egaa: 1.aCZ)eOa::1.LaX:Ae=a1XLeC .XaeXa. aeCxZX)e1xXXXe.x=X?.Yx)X1.axXX..==a T.)x1 gXae:aeXxe aACgXZ  Aa== CAvCeAegACe AAg=CC^A) ZCxA1=.C=AC1=R:)A?eC mXg=CChu eZZ:)C?Zx:)e}Z ) 1Z?xZ=g.?=DC?xZ?:C1)^x:xeeAAX)1?aCX)) eZZ=)C1r)1egx=X1.xagX)? x=X1.:x1)?egxXXZeexZ =: eaa=:Cel eeex? 1:.. aCXDe)x.)xeXa.X=e1xsX)e1ga 1e.x=XC.Jx) Z.a=CC).=x1 <.ex1 a.Xx.C).C=7 )..=a C..)=C1Ad=: 1Aa=XC=A==CC1A)=ACaA =.C=AC)a?XA1g)CXiZg=CCrtg)?K(xgeC.}=gC?4W)).?aw )=?=&1)3?)P1)a??*.)g?CZ)))?eZa:C1)Z=)?1TZC)11aZXX.e?ZC:Z1)Ze:ae3Z.X)e:af:X11ax:X1.a=:C.Ca):eeaaC:.egaCCJeXa1XxeXa.X=./x5X).nxxX?e.x=XC.ix) .aAx  a.=xe u.)x1 aA.x.  .C=7 ).1=aCCRQ==C(A%=X 1Aa=X .AA=CCZA)gaCaA =.C=;Cg/C)A1gxCXA.g=CCu5g)C1K1gXC.#=g??.u)g1?a=.1:aa).C)ZA:.ega1gZ11ax:11C?eas)X?.Z=e:aZ: e=a?X)exx:)neAxaXse:xCZA:11Ca}:)x Xxe?x)Xe.Xxg  :eeeaX:.e=:Z.g=C)A.C=Z C.X=1 gA=eex?XXe.x=IZ=ACXA:ggCX.A=: A Z. x1 a.XX:-:a?=Z 1.1=a Xx=?xQ)g=C?,.Ax=e .A==CZwg:?gZ=)?=ACXACgcC))a??Z))aggC.-8g)C1g*? Z?) g?egF)g1?aZCaA?=o?)s??_1)a?Xa.:C?CZZ))?eZa)C?.x=X^1*Z:)11xZX)A1=ZCXa1)ZA:a1XZ.:=1CaSX911ax:XeZa=:1e0a1 Xeaa :.e1aCXZe)a1Xae1C5X=eCxVX.e1xxXX.aC)XC.wx)CA.ax X.A):Z 0.Xx1 C.Xx. =A17e ).A=a e..== CZ4)x 1Ag=XCZA==.CGA)=ACaA?=.CXACg>C)A1)eCX!Qg=CCHSgCC1r)gCC.H=gCeZ,)ge?aaXCZ?gZZ)V?1h1)X?XayXx?CZ ))1xZa)X?.Z=?)1<Ze)11?ZX:p1=a5a.1)ax:ae1Z.:g1CaZ:)eN =:X1.a=X.eHa::1e) C:.e=aCCZe)aeXaAXxeXg.ZxsX1e1x1XXA.::X?.:x) x.a=ZX.A)g  <.Ax1 g.Xx. =.CX1 )Ax=aCZ..=) CA)Ze 1A =X?AA==?CwA)=1C))C=.C=AC:ZC)Aega1X=Zgg?Z!Rg1C1WxgXC.Zeg?? j)g1?aVXg.?=g))l?e71)??XZd)=?Ca ):?eZa)A?.Z=)C1).e)11xZXXA1=Z?:s1)Z1:)xCZ.:=1C=Z:)1eaa:1=Da=:Ce!= :1exaXX=:IaCXae)xCXae a.X)eCx=AXe1xaXX.1x=X?.^x)1X.xx X..)xC b.)x1 X.Xx. =.?=s ).1=a X..==?eAy=) 1Axgg .A==CZag?C.H?)C1an1=1?gZx)?1)ReAAgXCCuRg)Z )x11Z)Hg)C?z4)g1AC:e1?Zg:X1AZA:E?=a::eeXVC:ZeXxBZx:)?.Z=)C-:XgeXa):ee1.=)1egaXXg.=x1X):geXa>:)11 =eexsXe.1==X.1.x:  Axx  eA=e:xxXaeXa.A)ZAC).?=CC)A?eAx1XC.5x)e.=: CA:g)C.AXg xA a.Xx. =.C=%?Ca1=g X..== CA3=)X1xZ=
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
+local window = library:AddWindow("U3RT LOYALTY TIER 3 SCRIPT", {
+	main_color = Color3.fromRGB(0, 0, 0), -- Color
+	min_size = Vector2.new(350, 346), -- Size of the gui
+	can_resize = false, -- true or false
+})
+local features = window:AddTab("Op Stuff") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("Pack Farm",function()
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait(.1)
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait(.01)
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait(.1)
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait(.1)
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Pack Farm V2 (use after pack farm)",function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait()
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait()
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait()
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait()
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind",function()
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+local playersService = game:GetService("Players")
+local localPlayer = playersService.LocalPlayer
+
+local function equipSwiftSamuraiPet()
+    for _, pet in pairs(localPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == "Swift Samurai" then
+            replicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+task.spawn(function()
+    equipSwiftSamuraiPet()
+    
+    while true do
+        for _ = 1, 50 do
+            localPlayer.muscleEvent:FireServer("rep")
+        end
+        task.wait(0.001)
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind V2",function()
+      loadstring(game:HttpGet("https://pastebin.com/raw/e9eqkMgd"))()
+end)
+features:AddButton("Faster Rebirths",function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/imhshev3"))()
+end)
+local switch = features:AddSwitch("Hide All Frames", function(bool)
+	 game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+end)
+switch:Set(false)
+local features = window:AddTab("Misc") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("High Fps And Low Ping",function()	loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+end)
+features:AddButton("Early Update",function()	
+local player = game.Players.LocalPlayer
+local gui = player:WaitForChild("PlayerGui")
+
+-- Currency Frame Elements
+local currencyFrameGui = gui:WaitForChild("currencyFrameGui")
+local currencyFrame = currencyFrameGui:WaitForChild("currencyFrame")
+local limitedStockButton = currencyFrame:WaitForChild("limitedStockButton")
+local rewardButton = currencyFrame:WaitForChild("rewardButton")
+local inviteButton = currencyFrame:WaitForChild("inviteButton")
+local inviteLabel = inviteButton:WaitForChild("buttonLabel")
+inviteLabel.Text = "ATTACKS"
+
+-- Limited Stock UI
+local limitedStockGui = gui:WaitForChild("limitedStockGui")
+local limitedStockMenu = limitedStockGui:WaitForChild("limitedStockMenu")
+local limitedStockClose = limitedStockMenu:WaitForChild("xButton")
+
+-- Updates Menu
+local updatesMenuGui = gui:WaitForChild("updatesMenuGui")
+local updatesMenu = updatesMenuGui:FindFirstChild("updatesMenu") or updatesMenuGui:FindFirstChild("Frame")
+local updatesMenuClose = updatesMenu:WaitForChild("xButton")
+
+-- Invite Friends UI
+local inviteFriendsGui = gui:WaitForChild("inviteFriendsGui")
+local inviteRewardsMenu = inviteFriendsGui:WaitForChild("inviteRewardsMenu")
+local inviteClose = inviteRewardsMenu:WaitForChild("xButton")
+
+-- Right Side Offer Button
+local rightSideGui = gui:WaitForChild("rightSideGui")
+local specialOfferButton = rightSideGui:WaitForChild("specialOfferButton")
+
+-- === Initial UI Setup ===
+limitedStockButton.Visible = true
+rewardButton.Visible = true
+specialOfferButton.Visible = true
+
+limitedStockGui.Enabled = true
+limitedStockMenu.Visible = false
+
+inviteFriendsGui.Enabled = true
+inviteRewardsMenu.Visible = false
+
+updatesMenuGui.Enabled = true
+updatesMenu.Visible = false
+
+-- === Button Connections ===
+
+-- Limited Stock Button
+limitedStockButton.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = true
+end)
+
+limitedStockClose.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = false
+end)
+
+-- Updates Button
+rewardButton.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = true
+end)
+
+updatesMenuClose.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = false
+end)
+
+-- Invite Friends Button
+inviteButton.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = true
+end)
+
+inviteClose.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = false
+end)
+
+-- Toggle updates menu on inviteButton again? (if intended)
+-- Uncomment this if you want inviteButton to also toggle updatesMenu
+-- inviteButton.MouseButton1Click:Connect(function()
+-- 	print('fail')
+-- end)
+
+
+end)
+features:AddButton("Speed Grind Multiplier",function()
+	local player = game.Players.LocalPlayer
+local replicatedStorage = game:GetService("ReplicatedStorage")
+
+-- Create ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "GrindGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = player:WaitForChild("PlayerGui")
+
+-- Create Main Frame
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 250, 0, 120)
+mainFrame.Position = UDim2.new(0, 20, 0.5, -60)
+mainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+-- Create Title Label
+local title = Instance.new("TextLabel")
+title.Name = "Title"
+title.Size = UDim2.new(1, 0, 0.3, 0)
+title.Position = UDim2.new(0, 0, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "Speed Grind Multiplier"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextScaled = true
+title.Font = Enum.Font.SourceSansBold
+title.Parent = mainFrame
+
+-- Create TextBox
+local textBox = Instance.new("TextBox")
+textBox.Size = UDim2.new(0.8, 0, 0.25, 0)
+textBox.Position = UDim2.new(0.1, 0, 0.4, 0)
+textBox.PlaceholderText = "Enter reps per frame"
+textBox.Text = "1"
+textBox.TextScaled = true
+textBox.Font = Enum.Font.SourceSans
+textBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+textBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+textBox.Parent = mainFrame
+
+-- Info Label
+local infoLabel = Instance.new("TextLabel")
+infoLabel.Size = UDim2.new(1, 0, 0.2, 0)
+infoLabel.Position = UDim2.new(0, 0, 0.8, 0)
+infoLabel.BackgroundTransparency = 1
+infoLabel.Text = "Decimal = spread across frames"
+infoLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+infoLabel.TextScaled = true
+infoLabel.Font = Enum.Font.SourceSansItalic
+infoLabel.Parent = mainFrame
+
+-- Rep loop logic
+local repsPerFrame = 1
+local accumulated = 0
+
+textBox.FocusLost:Connect(function()
+	local input = tonumber(textBox.Text)
+	if input and input >= 0.1 then
+		repsPerFrame = input
+	else
+		textBox.Text = tostring(repsPerFrame)
+	end
+end)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+	accumulated += repsPerFrame
+	while accumulated >= 1 do
+		replicatedStorage.muscleEvent:FireServer("rep")		accumulated -= 1
+	end
+end)
+
+end)
+local switch = features:AddSwitch("Show Attack Gui (Early Update V2)", function(bool)
+game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Visible = bool
+	game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Size = UDim2.new(0.7, 0, 0.3, 0)
+		game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Position = UDim2.new(0.2, 0, 0.3, 0)
+end)
+switch:Set(false)
+local features = window:AddTab("Extra") -- Name of tab
+features:Show() -- shows the tab
+-- add folder for more space
+local folder = features:AddFolder("Extra1")
+folder:AddLabel("Ad Removal + Auto Stuff")
+folder:AddButton("Remove Portal",function()
+	wait(0.1)
+game.Workspace.RobloxForwardPortals:Destroy()
+end)
+folder:AddButton("Free Auto Lift Gamepass",function()
+	wait(0.1)
+game.Players.LocalPlayer.autoLiftEnabled.Value = true
+end)
+
+folder:AddButton("Copy Discord Link",function()
+	wait(0.1)
+setclipboard("https://discord.gg/zBTcqpr9Ry")
+wait(0.1)
+toclipboard("https://discord.gg/zBTcqpr9Ry")
+end)
+local folder = features:AddFolder("Disable/Enable")
+folder:AddLabel("if your reading this you're a goooodddd boyyyy")
+folder:AddButton("Bring Back Special Offer",function()
+	wait(0.1)
+game.Players.LocalPlayer.remainingSpecialOfferTime.Value = 1000000
+end)
+folder:AddButton("Infinite Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = 1272782782872
+end)
+
+folder:AddButton("Negative Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = -272737367372
+end)
+folder:AddButton("Disable Trades",function()
+	wait(0.1)
+game.Players.LocalPlayer.tradingOn.Value = false
+end)
+local features = window:AddTab("Fast Glitch") -- Name of tab
+features:Show() -- shows the tab
+
+   local switch = features:AddSwitch("Jungle Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Ancient Jungle Rock")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+
+   local switch = features:AddSwitch("Muscle King Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Muscle King Mountain")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
+local window = library:AddWindow("U3RT LOYALTY TIER 3 SCRIPT", {
+	main_color = Color3.fromRGB(0, 0, 0), -- Color
+	min_size = Vector2.new(350, 346), -- Size of the gui
+	can_resize = false, -- true or false
+})
+local features = window:AddTab("Op Stuff") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("Pack Farm",function()
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait(.1)
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait(.01)
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait(.1)
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait(.1)
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Pack Farm V2 (use after pack farm)",function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait()
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait()
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait()
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait()
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind",function()
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+local playersService = game:GetService("Players")
+local localPlayer = playersService.LocalPlayer
+
+local function equipSwiftSamuraiPet()
+    for _, pet in pairs(localPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == "Swift Samurai" then
+            replicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+task.spawn(function()
+    equipSwiftSamuraiPet()
+    
+    while true do
+        for _ = 1, 50 do
+            localPlayer.muscleEvent:FireServer("rep")
+        end
+        task.wait(0.001)
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind V2",function()
+      loadstring(game:HttpGet("https://pastebin.com/raw/e9eqkMgd"))()
+end)
+features:AddButton("Faster Rebirths",function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/imhshev3"))()
+end)
+local switch = features:AddSwitch("Hide All Frames", function(bool)
+	 game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+end)
+switch:Set(false)
+local features = window:AddTab("Misc") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("High Fps And Low Ping",function()	loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+end)
+features:AddButton("Early Update",function()	
+local player = game.Players.LocalPlayer
+local gui = player:WaitForChild("PlayerGui")
+
+-- Currency Frame Elements
+local currencyFrameGui = gui:WaitForChild("currencyFrameGui")
+local currencyFrame = currencyFrameGui:WaitForChild("currencyFrame")
+local limitedStockButton = currencyFrame:WaitForChild("limitedStockButton")
+local rewardButton = currencyFrame:WaitForChild("rewardButton")
+local inviteButton = currencyFrame:WaitForChild("inviteButton")
+local inviteLabel = inviteButton:WaitForChild("buttonLabel")
+inviteLabel.Text = "ATTACKS"
+
+-- Limited Stock UI
+local limitedStockGui = gui:WaitForChild("limitedStockGui")
+local limitedStockMenu = limitedStockGui:WaitForChild("limitedStockMenu")
+local limitedStockClose = limitedStockMenu:WaitForChild("xButton")
+
+-- Updates Menu
+local updatesMenuGui = gui:WaitForChild("updatesMenuGui")
+local updatesMenu = updatesMenuGui:FindFirstChild("updatesMenu") or updatesMenuGui:FindFirstChild("Frame")
+local updatesMenuClose = updatesMenu:WaitForChild("xButton")
+
+-- Invite Friends UI
+local inviteFriendsGui = gui:WaitForChild("inviteFriendsGui")
+local inviteRewardsMenu = inviteFriendsGui:WaitForChild("inviteRewardsMenu")
+local inviteClose = inviteRewardsMenu:WaitForChild("xButton")
+
+-- Right Side Offer Button
+local rightSideGui = gui:WaitForChild("rightSideGui")
+local specialOfferButton = rightSideGui:WaitForChild("specialOfferButton")
+
+-- === Initial UI Setup ===
+limitedStockButton.Visible = true
+rewardButton.Visible = true
+specialOfferButton.Visible = true
+
+limitedStockGui.Enabled = true
+limitedStockMenu.Visible = false
+
+inviteFriendsGui.Enabled = true
+inviteRewardsMenu.Visible = false
+
+updatesMenuGui.Enabled = true
+updatesMenu.Visible = false
+
+-- === Button Connections ===
+
+-- Limited Stock Button
+limitedStockButton.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = true
+end)
+
+limitedStockClose.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = false
+end)
+
+-- Updates Button
+rewardButton.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = true
+end)
+
+updatesMenuClose.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = false
+end)
+
+-- Invite Friends Button
+inviteButton.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = true
+end)
+
+inviteClose.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = false
+end)
+
+-- Toggle updates menu on inviteButton again? (if intended)
+-- Uncomment this if you want inviteButton to also toggle updatesMenu
+-- inviteButton.MouseButton1Click:Connect(function()
+-- 	print('fail')
+-- end)
+
+
+end)
+features:AddButton("Speed Grind Multiplier",function()
+	local player = game.Players.LocalPlayer
+local replicatedStorage = game:GetService("ReplicatedStorage")
+
+-- Create ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "GrindGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = player:WaitForChild("PlayerGui")
+
+-- Create Main Frame
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 250, 0, 120)
+mainFrame.Position = UDim2.new(0, 20, 0.5, -60)
+mainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+-- Create Title Label
+local title = Instance.new("TextLabel")
+title.Name = "Title"
+title.Size = UDim2.new(1, 0, 0.3, 0)
+title.Position = UDim2.new(0, 0, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "Speed Grind Multiplier"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextScaled = true
+title.Font = Enum.Font.SourceSansBold
+title.Parent = mainFrame
+
+-- Create TextBox
+local textBox = Instance.new("TextBox")
+textBox.Size = UDim2.new(0.8, 0, 0.25, 0)
+textBox.Position = UDim2.new(0.1, 0, 0.4, 0)
+textBox.PlaceholderText = "Enter reps per frame"
+textBox.Text = "1"
+textBox.TextScaled = true
+textBox.Font = Enum.Font.SourceSans
+textBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+textBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+textBox.Parent = mainFrame
+
+-- Info Label
+local infoLabel = Instance.new("TextLabel")
+infoLabel.Size = UDim2.new(1, 0, 0.2, 0)
+infoLabel.Position = UDim2.new(0, 0, 0.8, 0)
+infoLabel.BackgroundTransparency = 1
+infoLabel.Text = "Decimal = spread across frames"
+infoLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+infoLabel.TextScaled = true
+infoLabel.Font = Enum.Font.SourceSansItalic
+infoLabel.Parent = mainFrame
+
+-- Rep loop logic
+local repsPerFrame = 1
+local accumulated = 0
+
+textBox.FocusLost:Connect(function()
+	local input = tonumber(textBox.Text)
+	if input and input >= 0.1 then
+		repsPerFrame = input
+	else
+		textBox.Text = tostring(repsPerFrame)
+	end
+end)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+	accumulated += repsPerFrame
+	while accumulated >= 1 do
+		replicatedStorage.muscleEvent:FireServer("rep")		accumulated -= 1
+	end
+end)
+
+end)
+local switch = features:AddSwitch("Show Attack Gui (Early Update V2)", function(bool)
+game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Visible = bool
+	game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Size = UDim2.new(0.7, 0, 0.3, 0)
+		game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Position = UDim2.new(0.2, 0, 0.3, 0)
+end)
+switch:Set(false)
+local features = window:AddTab("Extra") -- Name of tab
+features:Show() -- shows the tab
+-- add folder for more space
+local folder = features:AddFolder("Extra1")
+folder:AddLabel("Ad Removal + Auto Stuff")
+folder:AddButton("Remove Portal",function()
+	wait(0.1)
+game.Workspace.RobloxForwardPortals:Destroy()
+end)
+folder:AddButton("Free Auto Lift Gamepass",function()
+	wait(0.1)
+game.Players.LocalPlayer.autoLiftEnabled.Value = true
+end)
+
+folder:AddButton("Copy Discord Link",function()
+	wait(0.1)
+setclipboard("https://discord.gg/zBTcqpr9Ry")
+wait(0.1)
+toclipboard("https://discord.gg/zBTcqpr9Ry")
+end)
+local folder = features:AddFolder("Disable/Enable")
+folder:AddLabel("if your reading this you're a goooodddd boyyyy")
+folder:AddButton("Bring Back Special Offer",function()
+	wait(0.1)
+game.Players.LocalPlayer.remainingSpecialOfferTime.Value = 1000000
+end)
+folder:AddButton("Infinite Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = 1272782782872
+end)
+
+folder:AddButton("Negative Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = -272737367372
+end)
+folder:AddButton("Disable Trades",function()
+	wait(0.1)
+game.Players.LocalPlayer.tradingOn.Value = false
+end)
+local features = window:AddTab("Fast Glitch") -- Name of tab
+features:Show() -- shows the tab
+
+   local switch = features:AddSwitch("Jungle Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Ancient Jungle Rock")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+
+   local switch = features:AddSwitch("Legends Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Rock Of Legends")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
+local window = library:AddWindow("U3RT LOYALTY TIER 3 SCRIPT", {
+	main_color = Color3.fromRGB(0, 0, 0), -- Color
+	min_size = Vector2.new(350, 346), -- Size of the gui
+	can_resize = false, -- true or false
+})
+local features = window:AddTab("Op Stuff") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("Pack Farm",function()
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait(.1)
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait(.01)
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait(.1)
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait(.1)
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait(.1)
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Pack Farm V2 (use after pack farm)",function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local function unequipAllPets()
+    local petsFolder = LocalPlayer.petsFolder
+    for folderName, petFolder in pairs(petsFolder:GetChildren()) do
+        if petFolder:IsA("Folder") then
+            for petIndex, pet in pairs(petFolder:GetChildren()) do
+                ReplicatedStorage.rEvents.equipPetEvent:FireServer("unequipPet", pet)
+            end
+        end
+    end
+    task.wait()
+end
+
+local function equipPet(petName)
+    unequipAllPets()
+    task.wait()
+    for petIndex, pet in pairs(LocalPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == petName then
+            ReplicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+local function findMachine(machineName)
+    local machine = workspace.machinesFolder:FindFirstChild(machineName)
+    if not machine then
+        for folderName, folder in pairs(workspace:GetChildren()) do
+            if folder:IsA("Folder") and folder.Name:find("machines") then
+                machine = folder:FindFirstChild(machineName)
+                if machine then break end
+            end
+        end
+    end
+    return machine
+end
+
+local function simulateKeyPress()
+    local inputManager = game:GetService("VirtualInputManager")
+    inputManager:SendKeyEvent(true, "E", false, game)
+    task.wait(.1)
+    inputManager:SendKeyEvent(false, "E", false, game)
+end
+
+task.spawn(function()
+    while true do
+        local rebirths = LocalPlayer.leaderstats.Rebirths.Value
+        local strengthThreshold = 10000 + (5000 * rebirths)
+        if LocalPlayer.ultimatesFolder:FindFirstChild("Golden Rebirth") then
+            local goldenRebirth = LocalPlayer.ultimatesFolder["Golden Rebirth"].Value
+            strengthThreshold = math.floor(strengthThreshold * (1 - (goldenRebirth * 0.1)))
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Swift Samurai")
+
+        while LocalPlayer.leaderstats.Strength.Value < strengthThreshold do
+            for i = 1, 10 do
+                LocalPlayer.muscleEvent:FireServer("rep")
+            end
+            task.wait()
+        end
+
+        unequipAllPets()
+        task.wait()
+        equipPet("Tribal Overlord")
+
+        local machine = findMachine("Jungle Bar Lift")
+        if machine and machine:FindFirstChild("interactSeat") then
+            LocalPlayer.Character.HumanoidRootPart.CFrame = machine.interactSeat.CFrame * CFrame.new(0, 3, 0)
+            repeat
+                task.wait()
+                simulateKeyPress()
+            until LocalPlayer.Character.Humanoid.Sit
+        end
+
+        local previousRebirths = LocalPlayer.leaderstats.Rebirths.Value
+        repeat
+            ReplicatedStorage.rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+            task.wait()
+        until LocalPlayer.leaderstats.Rebirths.Value > previousRebirths
+
+        task.wait()
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind",function()
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+local playersService = game:GetService("Players")
+local localPlayer = playersService.LocalPlayer
+
+local function equipSwiftSamuraiPet()
+    for _, pet in pairs(localPlayer.petsFolder.Unique:GetChildren()) do
+        if pet.Name == "Swift Samurai" then
+            replicatedStorage.rEvents.equipPetEvent:FireServer("equipPet", pet)
+        end
+    end
+end
+
+task.spawn(function()
+    equipSwiftSamuraiPet()
+    
+    while true do
+        for _ = 1, 50 do
+            localPlayer.muscleEvent:FireServer("rep")
+        end
+        task.wait(0.001)
+    end
+end)
+end)
+features:AddButton("Ultra Speed Grind V2",function()
+      loadstring(game:HttpGet("https://pastebin.com/raw/e9eqkMgd"))()
+end)
+features:AddButton("Faster Rebirths",function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/imhshev3"))()
+end)
+local switch = features:AddSwitch("Hide All Frames", function(bool)
+	 game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+end)
+switch:Set(false)
+local features = window:AddTab("Misc") -- Name of tab
+features:Show() -- shows the tab
+features:AddButton("High Fps And Low Ping",function()	loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+end)
+features:AddButton("Early Update",function()	
+local player = game.Players.LocalPlayer
+local gui = player:WaitForChild("PlayerGui")
+
+-- Currency Frame Elements
+local currencyFrameGui = gui:WaitForChild("currencyFrameGui")
+local currencyFrame = currencyFrameGui:WaitForChild("currencyFrame")
+local limitedStockButton = currencyFrame:WaitForChild("limitedStockButton")
+local rewardButton = currencyFrame:WaitForChild("rewardButton")
+local inviteButton = currencyFrame:WaitForChild("inviteButton")
+local inviteLabel = inviteButton:WaitForChild("buttonLabel")
+inviteLabel.Text = "ATTACKS"
+
+-- Limited Stock UI
+local limitedStockGui = gui:WaitForChild("limitedStockGui")
+local limitedStockMenu = limitedStockGui:WaitForChild("limitedStockMenu")
+local limitedStockClose = limitedStockMenu:WaitForChild("xButton")
+
+-- Updates Menu
+local updatesMenuGui = gui:WaitForChild("updatesMenuGui")
+local updatesMenu = updatesMenuGui:FindFirstChild("updatesMenu") or updatesMenuGui:FindFirstChild("Frame")
+local updatesMenuClose = updatesMenu:WaitForChild("xButton")
+
+-- Invite Friends UI
+local inviteFriendsGui = gui:WaitForChild("inviteFriendsGui")
+local inviteRewardsMenu = inviteFriendsGui:WaitForChild("inviteRewardsMenu")
+local inviteClose = inviteRewardsMenu:WaitForChild("xButton")
+
+-- Right Side Offer Button
+local rightSideGui = gui:WaitForChild("rightSideGui")
+local specialOfferButton = rightSideGui:WaitForChild("specialOfferButton")
+
+-- === Initial UI Setup ===
+limitedStockButton.Visible = true
+rewardButton.Visible = true
+specialOfferButton.Visible = true
+
+limitedStockGui.Enabled = true
+limitedStockMenu.Visible = false
+
+inviteFriendsGui.Enabled = true
+inviteRewardsMenu.Visible = false
+
+updatesMenuGui.Enabled = true
+updatesMenu.Visible = false
+
+-- === Button Connections ===
+
+-- Limited Stock Button
+limitedStockButton.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = true
+end)
+
+limitedStockClose.MouseButton1Click:Connect(function()
+	limitedStockMenu.Visible = false
+end)
+
+-- Updates Button
+rewardButton.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = true
+end)
+
+updatesMenuClose.MouseButton1Click:Connect(function()
+	updatesMenu.Visible = false
+end)
+
+-- Invite Friends Button
+inviteButton.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = true
+end)
+
+inviteClose.MouseButton1Click:Connect(function()
+	inviteRewardsMenu.Visible = false
+end)
+
+-- Toggle updates menu on inviteButton again? (if intended)
+-- Uncomment this if you want inviteButton to also toggle updatesMenu
+-- inviteButton.MouseButton1Click:Connect(function()
+-- 	print('fail')
+-- end)
+
+
+end)
+features:AddButton("Speed Grind Multiplier",function()
+	local player = game.Players.LocalPlayer
+local replicatedStorage = game:GetService("ReplicatedStorage")
+
+-- Create ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "GrindGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = player:WaitForChild("PlayerGui")
+
+-- Create Main Frame
+local mainFrame = Instance.new("Frame")
+mainFrame.Size = UDim2.new(0, 250, 0, 120)
+mainFrame.Position = UDim2.new(0, 20, 0.5, -60)
+mainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+-- Create Title Label
+local title = Instance.new("TextLabel")
+title.Name = "Title"
+title.Size = UDim2.new(1, 0, 0.3, 0)
+title.Position = UDim2.new(0, 0, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "Speed Grind Multiplier"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextScaled = true
+title.Font = Enum.Font.SourceSansBold
+title.Parent = mainFrame
+
+-- Create TextBox
+local textBox = Instance.new("TextBox")
+textBox.Size = UDim2.new(0.8, 0, 0.25, 0)
+textBox.Position = UDim2.new(0.1, 0, 0.4, 0)
+textBox.PlaceholderText = "Enter reps per frame"
+textBox.Text = "1"
+textBox.TextScaled = true
+textBox.Font = Enum.Font.SourceSans
+textBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+textBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+textBox.Parent = mainFrame
+
+-- Info Label
+local infoLabel = Instance.new("TextLabel")
+infoLabel.Size = UDim2.new(1, 0, 0.2, 0)
+infoLabel.Position = UDim2.new(0, 0, 0.8, 0)
+infoLabel.BackgroundTransparency = 1
+infoLabel.Text = "Decimal = spread across frames"
+infoLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+infoLabel.TextScaled = true
+infoLabel.Font = Enum.Font.SourceSansItalic
+infoLabel.Parent = mainFrame
+
+-- Rep loop logic
+local repsPerFrame = 1
+local accumulated = 0
+
+textBox.FocusLost:Connect(function()
+	local input = tonumber(textBox.Text)
+	if input and input >= 0.1 then
+		repsPerFrame = input
+	else
+		textBox.Text = tostring(repsPerFrame)
+	end
+end)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+	accumulated += repsPerFrame
+	while accumulated >= 1 do
+		replicatedStorage.muscleEvent:FireServer("rep")		accumulated -= 1
+	end
+end)
+
+end)
+local switch = features:AddSwitch("Show Attack Gui (Early Update V2)", function(bool)
+game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Visible = bool
+	game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Size = UDim2.new(0.7, 0, 0.3, 0)
+		game.Players.LocalPlayer.PlayerGui.updatesMenuGui.Frame.Position = UDim2.new(0.2, 0, 0.3, 0)
+end)
+switch:Set(false)
+local features = window:AddTab("Extra") -- Name of tab
+features:Show() -- shows the tab
+-- add folder for more space
+local folder = features:AddFolder("Extra1")
+folder:AddLabel("Ad Removal + Auto Stuff")
+folder:AddButton("Remove Portal",function()
+	wait(0.1)
+game.Workspace.RobloxForwardPortals:Destroy()
+end)
+folder:AddButton("Free Auto Lift Gamepass",function()
+	wait(0.1)
+game.Players.LocalPlayer.autoLiftEnabled.Value = true
+end)
+
+folder:AddButton("Copy Discord Link",function()
+	wait(0.1)
+setclipboard("https://discord.gg/zBTcqpr9Ry")
+wait(0.1)
+toclipboard("https://discord.gg/zBTcqpr9Ry")
+end)
+local folder = features:AddFolder("Disable/Enable")
+folder:AddLabel("if your reading this you're a goooodddd boyyyy")
+folder:AddButton("Bring Back Special Offer",function()
+	wait(0.1)
+game.Players.LocalPlayer.remainingSpecialOfferTime.Value = 1000000
+end)
+folder:AddButton("Infinite Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = 1272782782872
+end)
+
+folder:AddButton("Negative Spins",function()
+	wait(0.1)
+game.Players.LocalPlayer.purchasedSpins.Value = -272737367372
+end)
+folder:AddButton("Disable Trades",function()
+	wait(0.1)
+game.Players.LocalPlayer.tradingOn.Value = false
+end)
+local features = window:AddTab("Fast Glitch") -- Name of tab
+features:Show() -- shows the tab
+
+   local switch = features:AddSwitch("Jungle Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Ancient Jungle Rock")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+
+   local switch = features:AddSwitch("Inferno Rock", function(bool)
+	 -- toggle_god_mode(bool)
+   local player = game.Players.LocalPlayer
+local runService = game:GetService("RunService")
+
+local followEnabled = bool -- Toggle this to enable/disable following
+
+repeat wait() until player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+local hrp = player.Character:WaitForChild("HumanoidRootPart")
+local model = workspace.machinesFolder:FindFirstChild("Inferno Rock")
+
+if model and model:IsA("Model") then
+    -- Set PrimaryPart if not already set
+    if not model.PrimaryPart then
+        model.PrimaryPart = model:FindFirstChildWhichIsA("BasePart")
+    end
+
+    -- Scale down all parts by 0.1x
+    if model.PrimaryPart then
+        for _, part in ipairs(model:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.Size = part.Size * 0.3
+                part.Position = model.PrimaryPart.Position + (part.Position - model.PrimaryPart.Position) * 0.1
+            elseif part:IsA("MeshPart") then
+                part.Size = part.Size * 0.3
+            end
+        end
+    end
+
+    -- Follow logic
+    runService.RenderStepped:Connect(function()
+        if followEnabled and model.PrimaryPart then
+            local newCFrame = hrp.CFrame * CFrame.new(0, 0, -9)
+            model:SetPrimaryPartCFrame(newCFrame)
+        end
+    end)
+else
+    warn("Muscle King Mountain model not found or is not a Model")
+end
+
+wait(0.1)
+local player = game.Players.LocalPlayer
+repeat task.wait() until player.Character
+local character = player.Character
+local humanoid = character:WaitForChild("Humanoid")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local muscleEvent = player:WaitForChild("muscleEvent")
+local tool = player.Backpack:FindFirstChildOfClass("Tool") or character:FindFirstChildOfClass("Tool")
+
+if not tool then
+    warn("Tool not found!")
+    return
+end
+
+local attackTime = tool:WaitForChild("attackTime")
+local animFolder = replicatedStorage:WaitForChild("gameAnims"):WaitForChild("Tools"):WaitForChild("Punch")
+local idleAnim = humanoid:LoadAnimation(animFolder:WaitForChild("idle"))
+local attackAnims = {}
+for _, anim in pairs(animFolder:WaitForChild("attacks"):GetChildren()) do
+    if anim:IsA("Animation") then
+        table.insert(attackAnims, humanoid:LoadAnimation(anim))
+    end
+end
+
+-- Play idle anim when equipped
+tool.Equipped:Connect(function()
+    idleAnim:Play()
+end)
+
+tool.Unequipped:Connect(function()
+    idleAnim:Stop()
+    for _, anim in pairs(attackAnims) do
+        anim:Stop()
+    end
+end)
+
+-- Auto punch loop
+task.spawn(function()
+    local lastAttack = 0
+    local currentAnim = nil
+
+    while true do
+        if tool.Parent == character and humanoid.Health > 0 then
+            local now = tick()
+            if now - lastAttack >= attackTime.Value then
+                lastAttack = now
+
+                -- Pick a random animation (different from last)
+                local choices = {}
+                for _, anim in pairs(attackAnims) do
+                    if anim ~= currentAnim then
+                        table.insert(choices, anim)
+                    end
+                end
+                currentAnim = #choices > 0 and choices[math.random(1, #choices)] or currentAnim
+
+                if currentAnim then
+                    currentAnim:Play()
+                    local name = currentAnim.Animation.Name
+                    local hit = name == "rightAttack" and "rightHand" or (name == "leftAttack" and "leftHand" or "rightHand")
+                    muscleEvent:FireServer("punch", hit)
+                end
+            end
+        end
+        task.wait()
+    end
+end)
+wait(0.1)
+game.Players.LocalPlayer.Backpack.Punch.attackTime.Value = 0.000001
+wait(0.1)
+game.ReplicatedStorage.strengthFrame.Visible = bool
+game.ReplicatedStorage.durabilityFrame.Visible = bool
+game.ReplicatedStorage.agilityFrame.Visible = bool
+game.ReplicatedStorage.evilKarmaFrame.Visible = bool
+game.ReplicatedStorage.goodKarmaFrame.Visible = bool
+game.ReplicatedStorage.gemsFrame.Visible = bool
+game.ReplicatedStorage.tokensFrame.Visible = bool
+wait(0.1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+
+end)
+switch:Set(false)
+
